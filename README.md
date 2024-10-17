@@ -54,7 +54,7 @@ These files are additional speeches by Andrew Tate.
 
 1. Install the required Python packages:
    ```bash
-   pip install spacy nltk matplotlib
+   pip install spacy nltk matplotlib glob
    ```
 2. Download the spaCy language model:
    ```bash
